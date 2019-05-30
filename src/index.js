@@ -1,3 +1,3 @@
-import validSpecialChar from "./validSpecialChar";
+import specialCharUtil from "./validSpecialChar";
 import regex from "./regex";
-export { validSpecialChar, regex };
+export { specialCharUtil, regex };
