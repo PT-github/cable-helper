@@ -1,6 +1,6 @@
 {
   "name": "cable-helper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/cable-helper.js",
   "scripts": {
